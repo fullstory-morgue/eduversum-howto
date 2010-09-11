@@ -3,8 +3,9 @@ eduversum-howto (0.1.2) ORPHANED; urgency=low
   * NOT RELEASED YET
   * ORPHAN PACKAGE in favour of the new binary package inside of eduversum.
   * bump standards version to 3.9.1, no changes necessary.
+  * switch to compat level 8.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 03 Aug 2010 18:05:21 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 08 Aug 2010 03:54:27 +0200
 
 eduversum-howto (0.1.1) unstable; urgency=low
 
